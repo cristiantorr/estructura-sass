@@ -1,0 +1,17 @@
+{
+  "name": "bower",
+  "homepage": "https://github.com/cristiantorr/estructura-sass",
+  "authors": [
+    "Cristian Alonso Torres Patiño <catorres@smdigital.com.co>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
