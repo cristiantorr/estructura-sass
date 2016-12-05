@@ -3,8 +3,8 @@ var restar = function (a, b){
 };
 $(document).ready(function(){
     $(document).ready(function(){
-  $('.owl-carousel').owlCarousel();
-});
+        $('.owl-carousel').owlCarousel();
+    });
 })
 
 

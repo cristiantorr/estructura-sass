@@ -1,1 +1,0 @@
-var restar=function(r,n){return r-n};$(document).ready(function(){$(document).ready(function(){$(".owl-carousel").owlCarousel()})});var sumar=function(r,n){return r+n},restar=function(r,n){return r-n},sumar=function(r,n){return r+n};

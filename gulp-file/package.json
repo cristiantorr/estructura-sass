@@ -18,7 +18,9 @@
   "homepage": "https://github.com/cristiantorr/estructura-sass#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.13",
     "gulp-concat": "^2.6.1",
+    "gulp-minify": "0.0.14",
     "gulp-ruby-sass": "^2.1.1",
     "gulp-sass": "^2.3.2",
     "gulp-uglify": "^2.0.0"
