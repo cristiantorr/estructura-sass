@@ -1,0 +1,20 @@
+{
+  "name": "catorresassminify",
+  "description": "Se estructura sass con bower y gulp",
+  "main": "index.js",
+  "authors": [
+    "cristiantorr"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/cristiantorr/estructura-sass",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
